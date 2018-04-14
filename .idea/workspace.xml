@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42013b2b-d030-42c4-9a15-2b6141616e86" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_8_0_201706111038_r.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_0_M9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_0_M9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_0_M9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="42013b2b-d030-42c4-9a15-2b6141616e86" name="默认的" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-eurekaserver/target/" />
@@ -75,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-zuulservice/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="48" />
+              <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -85,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-configserver/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="66" />
+              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -105,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-configclient/src/main/java/cn/xiaomingx/springcloudconfigclient/SpringcloudConfigclientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <element signature="e#483#484#0" expanded="true" />
                 <element signature="e#559#560#0" expanded="true" />
@@ -591,12 +579,12 @@
       <workItem from="1523692864133" duration="3430000" />
       <workItem from="1523701266650" duration="1252000" />
       <workItem from="1523703523501" duration="1169000" />
-      <workItem from="1523704739166" duration="6875000" />
+      <workItem from="1523704739166" duration="6945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12726000" />
+    <option name="totallyTimeSpent" value="12796000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -887,7 +875,7 @@
     <entry file="file://$PROJECT_DIR$/springcloud-zuulservice/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="48" />
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -895,7 +883,7 @@
     <entry file="file://$PROJECT_DIR$/springcloud-configserver/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="66" />
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -914,7 +902,7 @@
     <entry file="file://$PROJECT_DIR$/springcloud-configclient/src/main/java/cn/xiaomingx/springcloudconfigclient/SpringcloudConfigclientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
             <element signature="e#483#484#0" expanded="true" />
             <element signature="e#559#560#0" expanded="true" />
