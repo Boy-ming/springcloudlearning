@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud" />
+        <module name="springcloud-configclient" />
+        <module name="springcloud-configserver" />
         <module name="springcloud-eurekaserver" />
         <module name="springcloud-feignservice" />
         <module name="springcloud-mainservice" />
@@ -16,6 +18,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloud" target="1.5" />
+      <module name="springcloud-configclient" target="1.8" />
+      <module name="springcloud-configserver" target="1.8" />
       <module name="springcloud-eurekaserver" target="1.8" />
       <module name="springcloud-feignservice" target="1.8" />
       <module name="springcloud-firstclient" target="1.8" />

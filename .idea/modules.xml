@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" filepath="$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" filepath="$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eurekaserver/springcloud-eurekaserver.iml" filepath="$PROJECT_DIR$/springcloud-eurekaserver/springcloud-eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" filepath="$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" filepath="$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" />
