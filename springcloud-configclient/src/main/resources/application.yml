@@ -1,0 +1,28 @@
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/
+server:
+    port: 8881
+spring:
+    application:
+        name: config-client
+    cloud:
+        config:
+            discovery:
+                enabled: true
+                serviceId: config-server
+            label: master
+            profile: dev
+            uri: http://localhost:8888/
+    rabbitmq:
+        host: localhost
+        password: guest
+        port: 5672
+        username: guest
+management:
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: hystrix.stream,refresh,bus-refresh

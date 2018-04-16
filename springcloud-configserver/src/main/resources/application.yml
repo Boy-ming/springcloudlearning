@@ -1,0 +1,29 @@
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/
+server:
+    port: 8888
+spring:
+    application:
+        name: config-server
+    cloud:
+        config:
+            label: master
+            server:
+                git:
+                    password: your password
+                    username: your username
+                    searchPaths: springcloud-configserver/respo
+                    uri: https://github.com/Boy-ming/springcloudlearning
+    rabbitmq:
+        host: localhost
+        password: guest
+        username: guest
+        port: 5672
+management:
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: hystrix.stream,refresh,bus-refresh

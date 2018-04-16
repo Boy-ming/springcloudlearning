@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-bus/springcloud-bus.iml" filepath="$PROJECT_DIR$/springcloud-bus/springcloud-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" filepath="$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" filepath="$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eurekaserver/springcloud-eurekaserver.iml" filepath="$PROJECT_DIR$/springcloud-eurekaserver/springcloud-eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" filepath="$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" filepath="$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-ribbonservice/springcloud-ribbonservice.iml" filepath="$PROJECT_DIR$/springcloud-ribbonservice/springcloud-ribbonservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zipkinserver/springcloud-zipkinserver.iml" filepath="$PROJECT_DIR$/springcloud-zipkinserver/springcloud-zipkinserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-zuulservice/springcloud-zuulservice.iml" filepath="$PROJECT_DIR$/springcloud-zuulservice/springcloud-zuulservice.iml" />
     </modules>
   </component>
