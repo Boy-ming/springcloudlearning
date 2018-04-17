@@ -15,7 +15,7 @@ spring:
                     searchPaths: /config
                     uri: https://gitee.com/endex/springcloudlearning
     rabbitmq:
-        host: localhost
+        host: 52.193.160.92
         port: 5672
 management:
   endpoints:
