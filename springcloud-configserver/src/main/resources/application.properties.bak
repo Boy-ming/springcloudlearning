@@ -1,0 +1,13 @@
+spring.application.name=config-server
+server.port=8888
+
+
+spring.cloud.config.server.git.uri=https://github.com/Boy-ming/springcloudlearning
+spring.cloud.config.server.git.searchPaths=springcloud-configserver/respo
+spring.cloud.config.label=master
+spring.cloud.config.server.git.username=your username
+spring.cloud.config.server.git.password=your password
+
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
+management.endpoints.web.exposure.include=hystrix.stream,refresh,bus-refresh
+management.endpoints.web.base-path=/

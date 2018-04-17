@@ -13,7 +13,8 @@ management:
   endpoints:
     web:
       exposure:
-        include: hystrix.stream
+        include: hystrix.stream,refresh
+      base-path: /
 feign:
   hystrix:
     enabled: true

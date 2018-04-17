@@ -7,11 +7,10 @@
     <file url="file://$PROJECT_DIR$/springcloud-configserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eurekaserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-feignservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-mainservice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-ribbonservice" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-zipkinserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-zuulservice" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zipkin" charset="UTF-8" />
   </component>
 </project>

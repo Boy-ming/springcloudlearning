@@ -12,14 +12,10 @@ spring:
             label: master
             server:
                 git:
-                    password: your password
-                    username: your username
-                    searchPaths: springcloud-configserver/respo
-                    uri: https://github.com/Boy-ming/springcloudlearning
+                    searchPaths: /config
+                    uri: https://gitee.com/endex/springcloudlearning
     rabbitmq:
         host: localhost
-        password: guest
-        username: guest
         port: 5672
 management:
   endpoints:

@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/springcloud-zipkinserver/pom.xml" />
         <option value="$PROJECT_DIR$/zipkin/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-hystrix/pom.xml" />
       </list>
     </option>
   </component>

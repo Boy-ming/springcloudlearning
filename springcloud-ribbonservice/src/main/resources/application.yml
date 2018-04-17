@@ -14,7 +14,14 @@ management:
     web:
       exposure:
         include: hystrix.stream
+  endpoint:
+    hystrix:
+      stream:
+        enabled: true
 management:
   endpoints:
     web:
       base-path: /
+hystrix:
+  metrics:
+    enabled: true

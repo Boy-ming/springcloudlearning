@@ -13,6 +13,7 @@
         <module name="springcloud-configserver" />
         <module name="springcloud-eurekaserver" />
         <module name="springcloud-feignservice" />
+        <module name="springcloud-hystrix" />
         <module name="springcloud-mainservice" />
         <module name="springcloud-ribbonservice" />
         <module name="springcloud-zipkinserver" />
@@ -28,6 +29,7 @@
       <module name="springcloud-eurekaserver" target="1.8" />
       <module name="springcloud-feignservice" target="1.8" />
       <module name="springcloud-firstclient" target="1.8" />
+      <module name="springcloud-hystrix" target="1.8" />
       <module name="springcloud-mainservice" target="1.8" />
       <module name="springcloud-ribbonserver" target="1.8" />
       <module name="springcloud-ribbonservice" target="1.8" />
