@@ -10,9 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" filepath="$PROJECT_DIR$/springcloud-feignservice/springcloud-feignservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" filepath="$PROJECT_DIR$/springcloud-mainservice/springcloud-mainservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-rabbitmqclient/springcloud-rabbitmqclient.iml" filepath="$PROJECT_DIR$/springcloud-rabbitmqclient/springcloud-rabbitmqclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-rabbitmqserver/springcloud-rabbitmqserver.iml" filepath="$PROJECT_DIR$/springcloud-rabbitmqserver/springcloud-rabbitmqserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-ribbonservice/springcloud-ribbonservice.iml" filepath="$PROJECT_DIR$/springcloud-ribbonservice/springcloud-ribbonservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-zipkinserver/springcloud-zipkinserver.iml" filepath="$PROJECT_DIR$/springcloud-zipkinserver/springcloud-zipkinserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-zuulservice/springcloud-zuulservice.iml" filepath="$PROJECT_DIR$/springcloud-zuulservice/springcloud-zuulservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudlearning.iml" filepath="$PROJECT_DIR$/springcloudlearning.iml" />
     </modules>
   </component>
 </project>

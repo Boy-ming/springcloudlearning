@@ -6,8 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
-        <module name="springcloud" />
         <module name="springcloud-bus" />
         <module name="springcloud-configclient" />
         <module name="springcloud-configserver" />
@@ -15,28 +13,26 @@
         <module name="springcloud-feignservice" />
         <module name="springcloud-hystrix" />
         <module name="springcloud-mainservice" />
+        <module name="springcloud-rabbitmqclient" />
+        <module name="springcloud-rabbitmqserver" />
         <module name="springcloud-ribbonservice" />
         <module name="springcloud-zipkinserver" />
         <module name="springcloud-zuulservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo" target="1.8" />
-      <module name="springcloud" target="1.5" />
       <module name="springcloud-bus" target="1.8" />
       <module name="springcloud-configclient" target="1.8" />
       <module name="springcloud-configserver" target="1.8" />
       <module name="springcloud-eurekaserver" target="1.8" />
       <module name="springcloud-feignservice" target="1.8" />
-      <module name="springcloud-firstclient" target="1.8" />
       <module name="springcloud-hystrix" target="1.8" />
       <module name="springcloud-mainservice" target="1.8" />
-      <module name="springcloud-ribbonserver" target="1.8" />
+      <module name="springcloud-rabbitmqclient" target="1.8" />
+      <module name="springcloud-rabbitmqserver" target="1.8" />
       <module name="springcloud-ribbonservice" target="1.8" />
-      <module name="springcloud-zipkin" target="1.8" />
       <module name="springcloud-zipkinserver" target="1.6" />
       <module name="springcloud-zuulservice" target="1.8" />
-      <module name="zipkin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

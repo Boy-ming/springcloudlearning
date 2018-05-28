@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zipkin">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/springcloud-zipkinserver/src/main/resources/zipkin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

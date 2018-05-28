@@ -9,3 +9,10 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    enable-self-preservation: false
+spring:
+    redis:
+        database: 5
+        host: 52.193.160.92
+        port: 6379
